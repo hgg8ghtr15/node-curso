@@ -1,0 +1,23 @@
+01
+    yarn init ./
+
+02
+    yarn add express
+
+03
+    yarn add @types/express -D
+
+04 
+    yarn add typescript -D
+
+05
+    yarn tsc --init
+
+06
+    yarn tsc
+
+
+07- "outDir": "./dist", pasta padrão
+    arquivo tsconfig
+
+classe <--> router <--> server
