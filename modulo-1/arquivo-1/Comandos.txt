@@ -1,0 +1,27 @@
+01- iniciar o projeto
+    npm init -y
+    yarn init ./
+
+02- instalacao do express
+    npm install express
+    yarn add express
+
+03- instalação de biblioteca externa
+    npm i --save-dev @types/express
+
+04- instala a dependencia do typescript
+    npm i --save-dev  typescript
+
+    05- instalção do yarn globall
+        sudo npm install --global yarn
+
+05- arquivo tsconfig do typescript
+    yarn tsc --init
+
+06- convert server.ts em server.js
+    npm tsc
+
+07- "outDir": "./dist", pasta padrão
+    arquivo tsconfig
+
+classe <--> router <--> server
